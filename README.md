@@ -1,9 +1,11 @@
 # WALLPAP-ENG-resource
 
+![](https://img.shields.io/steam/collection-files/1865840540?style=flat-square&label=items)
+
 resource of [Wallpaper Engine](https://www.wallpaperengine.io/), almost all come from favorite anime. uploaded them many years ago, and recently carried out "garbage collection".
-used [shields.io](https://shields.io/) to show some datac.  
-used [markserv](https://github.com/markserv/markserv) to preview `draft.md`.  
-see [table-resource.md](/table-resource.md). (there are few useful `csv` files.)
+used [shields.io](https://shields.io/) to show some data.  
+used [markserv](https://github.com/markserv/markserv) to preview.  
+see [table.md](/table-resource.md). (there are few useful `csv` files.)
 
 ## note
 
@@ -18,5 +20,6 @@ all these videos on [steamcommunity](https://steamcommunity.com/), their copyrig
 
 ## todo
 
+- [ ] merge collections on steamcommunity
 - [ ] supplement the information of song
-- [ ] learn about sql 🤡
+- [ ] maybe learn about sql, [datasette](https://datasette.io) 🤡
