@@ -14,7 +14,7 @@ used [markserv](https://github.com/markserv/markserv) to preview.
 3. The earlier files basically used [ShanaEncoder](https://sourceforge.net/projects/shanaencoder/) to batch compression. later, also used with [HandBrake](https://handbrake.fr), [LosslessCut](https://github.com/mifi/lossless-cut).
 4. the later description is only filled in the "English" language by default. but do not delete or correct the content in other languages. because if cannot carried out the batch operation, things will be troublesome.
 
-## license
+## no license
 
 all these videos on [steamcommunity](https://steamcommunity.com/), their copyrights belong to the original producer, etc 👮
 
