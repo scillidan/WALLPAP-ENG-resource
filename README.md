@@ -2,10 +2,10 @@
 
 ![](https://img.shields.io/steam/collection-files/1865840540?style=flat-square&label=items)
 
-resource of [Wallpaper Engine](https://www.wallpaperengine.io/), almost all come from favorite anime. uploaded them many years ago, and recently carried out "garbage collection".
-used [shields.io](https://shields.io/) to show some data.  
+resource of [Wallpaper Engine](https://www.wallpaperengine.io/).  
+almost all come from favorite anime. uploaded them many years ago, and recently carried out "garbage collection". the data table is split into `table.md` and some `csv`.  
+used [shields.io](https://shields.io/) to slowly show some data. see [table.md](/table.md).  
 used [markserv](https://github.com/markserv/markserv) to preview.  
-see [table.md](/table.md). (there are few useful `csv` files.)
 
 ## note
 
@@ -16,10 +16,29 @@ see [table.md](/table.md). (there are few useful `csv` files.)
 
 ## license
 
-all these videos on [steamcommunity](https://steamcommunity.com/), their copyrights belong to the producer, etc 👮
+all these videos on [steamcommunity](https://steamcommunity.com/), their copyrights belong to the original producer, etc 👮
+
+## magic
+
+long and good 👺
+
+```cmd
+curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/table.md ^
+  | sd "\[\d{10}\]\(" "" ^
+  | sd "(\)\|\S+subsc)" "|![](//img.shields.io/steam/subsc" ^
+  | mdtable2csv ^
+  | sd "//steamc" "https://steamc" ^
+  | xsv select source,version,urlid ^
+  | csview
+````
+
+replace `^` with `\` in `bash`.
+
+![](media/wallpap-eng-resource.png)
 
 ## todo
 
-- [ ] merge collections on steamcommunity
+- [x] merge collections on steamcommunity
 - [ ] supplement the information of song
-- [ ] maybe learn about sql, [datasette](https://datasette.io) 🤡
+- [ ] write about #magic 🤡
+- [ ] maybe take a look of sql, [datasette](https://datasette.io)
