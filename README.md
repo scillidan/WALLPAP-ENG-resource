@@ -39,6 +39,5 @@ replace `^` with `\` in `bash`.
 ## todo
 
 - [x] merge collections on steamcommunity
-- [ ] supplement the information of song
+- [x] supplement the information of song
 - [ ] write about #magic 🤡
-- [ ] maybe take a look of sql, [datasette](https://datasette.io)
