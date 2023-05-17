@@ -4,7 +4,7 @@
 
 resource of [Wallpaper Engine](https://www.wallpaperengine.io/).  
 almost all come from favorite anime. uploaded them many years ago, and recently carried out "garbage collection". the data table is split into `table.md` and some `csv`.  
-used [shields.io](https://shields.io/) to slowly show some data. see [table.md](/table.md).  
+used [shields.io](https://shields.io/) to slowly show some data. see [data.md](/data.md).  
 used [markserv](https://github.com/markserv/markserv) to preview.  
 
 ## note
