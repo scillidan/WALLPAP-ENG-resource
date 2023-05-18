@@ -23,7 +23,7 @@ all these videos on [steamcommunity](https://steamcommunity.com/), their copyrig
 long and good 👺
 
 ```cmd
-curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/table.md ^
+curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/data.md ^
   | sd "\[\d{10}\]\(" "" ^
   | sd "(\)\|\S+subsc)" "|![](//img.shields.io/steam/subsc" ^
   | mdtable2csv ^
