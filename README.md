@@ -18,9 +18,7 @@ used [markserv](https://github.com/markserv/markserv) to preview.
 
 all these videos on [steamcommunity](https://steamcommunity.com/), their copyrights belong to the original producer, etc 👮
 
-## magic
-
-long and good 👺
+## witchcraft 🧙
 
 ```cmd
 curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/data.md ^
@@ -40,4 +38,4 @@ replace `^` with `\` in `bash`.
 
 - [x] merge collections on steamcommunity
 - [x] supplement the information of song
-- [ ] write about #magic 🤡
+- [ ] teach the #witchcraft 🤡
