@@ -32,7 +32,7 @@ curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/
 
 replace `^` with `\` in `bash`.
 
-![](media/wallpap-eng-resource.png)
+![](_media/WALLPAP-ENG-resource.png)
 
 ## todo
 
