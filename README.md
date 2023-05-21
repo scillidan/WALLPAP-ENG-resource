@@ -5,7 +5,7 @@
 resource of [Wallpaper Engine](https://www.wallpaperengine.io/).  
 Almost all come from favorite anime. uploaded them many years ago, and recently carried out "garbage collection".  
 See [data.md](/data.md) to get some stream-data.  
-See [name.csv](/name.csv) and [source](/source.csv) to get more information.
+See [name.csv](/name.csv) and [source.csv](/source.csv) to get more information.
 
 ## Tools
 
