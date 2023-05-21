@@ -40,4 +40,4 @@ curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/
   | csview
 ````
 
-![](_media/WALLPAP-ENG-resource.png)
+![](/WALLPAP-ENG-resource.png)
