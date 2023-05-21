@@ -3,22 +3,32 @@
 ![](https://img.shields.io/steam/collection-files/1865840540?style=flat-square&label=items)
 
 resource of [Wallpaper Engine](https://www.wallpaperengine.io/).  
-almost all come from favorite anime. uploaded them many years ago, and recently carried out "garbage collection". the data table is split into `table.md` and some `csv`.  
-used [shields.io](https://shields.io/) to slowly show some data. see [data.md](/data.md).  
-used [markserv](https://github.com/markserv/markserv) to preview.  
+Almost all come from favorite anime. uploaded them many years ago, and recently carried out "garbage collection".  
+See [data.md](/data.md) to get some stream-data.  
+See [name.csv](/name.csv) and [source](/source.csv) to get more information.
 
-## note
+## Tools
 
-1. the naming of early wallpaper-files generally uses "Chinese name" + "original name".
-2. generally, the first frame with a certain degree of recognition is intercepted as the video cover.
-3. The earlier files basically used [ShanaEncoder](https://sourceforge.net/projects/shanaencoder/) to batch compression. later, also used with [HandBrake](https://handbrake.fr), [LosslessCut](https://github.com/mifi/lossless-cut).
-4. the later description is only filled in the "English" language by default. but do not delete or correct the content in other languages. because if cannot carried out the batch operation, things will be troublesome.
+- [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+- [Jackett](https://github.com/Jackett/Jackett)
+- [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch)
+- [HandBrake](https://handbrake.fr)
+- [Handbrake Watcher](https://github.com/shannah/handbrake-watcher)
+- ...
 
-## no license
+## No License
 
-all these videos on [steamcommunity](https://steamcommunity.com/), their copyrights belong to the original producer, etc 👮
+All these videos on [steamcommunity](https://steamcommunity.com/), their copyrights belong to the original producer, etc 👮
 
-## witchcraft 🧙
+## Todo
+
+- [x] merge collections on steamcommunity
+- [x] supplement the information of song
+- [ ] clean up the names and introductions on the page
+
+## Witchcraft 🧙
+
+replace `^` with `\` in `bash`.
 
 ```cmd
 curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/data.md ^
@@ -30,12 +40,4 @@ curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/
   | csview
 ````
 
-replace `^` with `\` in `bash`.
-
 ![](_media/WALLPAP-ENG-resource.png)
-
-## todo
-
-- [x] merge collections on steamcommunity
-- [x] supplement the information of song
-- [ ] teach the #witchcraft 🤡
