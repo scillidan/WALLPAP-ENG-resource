@@ -1,11 +1,12 @@
 # WALLPAP-ENG-resource
 
-![](https://img.shields.io/steam/collection-files/1865840540?style=flat-square&label=items)
+![](https://img.shields.io/steam/collection-files/1865840540?style=flat-square&label=items)  
+[![](https://img.shields.io/static/v1?style=for-the-badge&message=atom&color=222222&logo=RSS&logoColor=FFA500&label=)](https://github.com/scillidan/WALLPAP-ENG-resource/commits/main.atom)
 
 resource of [Wallpaper Engine](https://www.wallpaperengine.io/).  
 Almost all come from favorite anime. uploaded them many years ago, and recently carried out "garbage collection".  
-See [data.md](/data.md) to get some stream-data.  
-See [name.csv](/name.csv) and [source.csv](/source.csv) to get more information.
+See [table.md](/table.md) to get some stream-data.  
+See [name.csv](/data_name.csv) and [source.csv](/data_source.csv) to get more information.
 
 ## Tools
 
@@ -16,22 +17,12 @@ See [name.csv](/name.csv) and [source.csv](/source.csv) to get more information.
 - [Handbrake Watcher](https://github.com/shannah/handbrake-watcher)
 - ...
 
-## No License
-
-All these videos on [steamcommunity](https://steamcommunity.com/), their copyrights belong to the original producer, etc 👮
-
-## Todo
-
-- [x] merge collections on steamcommunity
-- [x] supplement the information of song
-- [ ] clean up the names and introductions on the page
-
 ## Witchcraft 🧙
 
 replace `^` with `\` in `bash`.
 
 ```cmd
-curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/data.md ^
+curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/table.md ^
   | sd "\[\d{10}\]\(" "" ^
   | sd "(\)\|\S+subsc)" "|![](//img.shields.io/steam/subsc" ^
   | mdtable2csv ^
@@ -41,3 +32,7 @@ curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/
 ````
 
 ![](/WALLPAP-ENG-resource.png)
+
+## No License
+
+All these videos on [steamcommunity](https://steamcommunity.com/), their copyrights belong to the original producer, etc 👮
