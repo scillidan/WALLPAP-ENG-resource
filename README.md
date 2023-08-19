@@ -31,7 +31,7 @@ curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/
   | csview
 ````
 
-![](/WALLPAP-ENG-resource.png)
+![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/WALLPAP-ENG-resource_cmd.png)
 
 ## No License
 
