@@ -15,24 +15,7 @@ See [name.csv](/data_name.csv) and [source.csv](/data_source.csv) to get more in
 - [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch)
 - [HandBrake](https://handbrake.fr)
 - [Handbrake Watcher](https://github.com/shannah/handbrake-watcher)
-- ...
 
-## Witchcraft 🧙
+## Attribution
 
-replace `^` with `\` in `bash`.
-
-```cmd
-curlie -k https://raw.githubusercontent.com/scillidan/WALLPAP-ENG-resource/main/table.md ^
-  | sd "\[\d{10}\]\(" "" ^
-  | sd "(\)\|\S+subsc)" "|![](//img.shields.io/steam/subsc" ^
-  | mdtable2csv ^
-  | sd "//steamc" "https://steamc" ^
-  | xsv select source,version,urlid ^
-  | csview
-````
-
-![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/WALLPAP-ENG-resource_cmd.png)
-
-## No License
-
-All these videos on [steamcommunity](https://steamcommunity.com/), their copyrights belong to the original producer, etc 👮
+Content of this repo licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). All these videos on [steamcommunity](https://steamcommunity.com/), their copyrights belong to the original producer, etc.
