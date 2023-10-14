@@ -1,7 +1,6 @@
 # WALLPAP-ENG-resource
 
-![](https://img.shields.io/steam/collection-files/1865840540?style=flat-square&label=items)  
-[![](https://img.shields.io/static/v1?style=for-the-badge&message=atom&color=222222&logo=RSS&logoColor=FFA500&label=)](https://github.com/scillidan/WALLPAP-ENG-resource/commits/main.atom)
+![](https://img.shields.io/steam/collection-files/1865840540?style=flat-square&label=items)
 
 resource of [Wallpaper Engine](https://www.wallpaperengine.io/).  
 Almost all come from favorite anime. uploaded them many years ago, and recently carried out "garbage collection".  
