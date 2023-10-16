@@ -1,5 +1,8 @@
 |source|version|song|urlid|subscribe|download|
 |---|---|---|---|---|---|
+|SPY×FAMILY|NC-OP-02|SOUVENIR|[3051585760](//steamcommunity.com/sharedfiles/filedetails/?id=3051585760)|![](https://img.shields.io/steam/subscriptions/3051585760?style=flat-square&label=)|![](https://img.shields.io/steam/downloads/3051585760?style=flat-square&label=)|
+|SPY×FAMILY|NC-ED-01|喜劇|[3051594746](//steamcommunity.com/sharedfiles/filedetails/?id=3051594746)|![](https://img.shields.io/steam/subscriptions/3051594746?style=flat-square&label=)|![](https://img.shields.io/steam/downloads/3051594746?style=flat-square&label=)|
+|SPY×FAMILY|NC-ED-02|色彩|[3051603690](//steamcommunity.com/sharedfiles/filedetails/?id=3051603690)|![](https://img.shields.io/steam/subscriptions/3051603690?style=flat-square&label=)|![](https://img.shields.io/steam/downloads/3051603690?style=flat-square&label=)|
 |The Legend of Hei|CM-05|Unity|[2938539290](//steamcommunity.com/sharedfiles/filedetails/?id=2938539290)|![](https://img.shields.io/steam/subscriptions/2938539290?style=flat-square&label=)|![](https://img.shields.io/steam/downloads/2938539290?style=flat-square&label=)|
 |Chainsaw Man|NC-OP|Kick Back|[2975375028](//steamcommunity.com/sharedfiles/filedetails/?id=2975375028)|![](https://img.shields.io/steam/subscriptions/2975375028?style=flat-square&label=)|![](https://img.shields.io/steam/downloads/2975375028?style=flat-square&label=)|
 |Chainsaw Man|EP|CHAINSAW BLOOD|[2975332093](//steamcommunity.com/sharedfiles/filedetails/?id=2975332093)|![](https://img.shields.io/steam/subscriptions/2975332093?style=flat-square&label=)|![](https://img.shields.io/steam/downloads/2975332093?style=flat-square&label=)|
