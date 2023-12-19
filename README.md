@@ -2,8 +2,7 @@
 
 ![](https://img.shields.io/steam/collection-files/1865840540?style=flat-square&label=items)
 
-resource of [Wallpaper Engine](https://www.wallpaperengine.io/).  
-Almost all come from favorite anime. uploaded them many years ago, and recently carried out "garbage collection".  
+Resource of [Wallpaper Engine](https://www.wallpaperengine.io/). I have used multiple transcod software up to now. It's inevitable that some source files were converted to shit 💩.  
 See [table.md](/table.md) to get some stream-data.  
 See [name.csv](/data_name.csv) and [source.csv](/data_source.csv) to get more information.
 
