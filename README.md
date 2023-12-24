@@ -13,6 +13,7 @@ See [name.csv](/data_name.csv) and [source.csv](/data_source.csv) to get more in
 - [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch)
 - [HandBrake](https://handbrake.fr)
 - [Handbrake Watcher](https://github.com/shannah/handbrake-watcher)
+- [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface)
 
 ## Attribution
 
