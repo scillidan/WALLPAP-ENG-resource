@@ -14,4 +14,4 @@ Resource of [Wallpaper Engine](https://www.wallpaperengine.io/). Some early vide
 
 ## Attribution
 
-Content of this repo licensed under [CC BY-NC-ND4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). All these videos on [steamcommunity](https://steamcommunity.com/), their copyrights belong to the original producer 👮, etc.
+Content of this repo licensed under [CC BY-NC-ND4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). All the wallpaper videos on steamcommunity, their copyrights belong to the original producer 👮, etc.
