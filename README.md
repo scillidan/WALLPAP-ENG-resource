@@ -10,6 +10,8 @@
 
 Resource of [Wallpaper Engine](https://www.wallpaperengine.io/). Some videos I processed a long time ago were transcoded to 💩.
 
+Because its metadata is troublesome to edit, so merely occasionally update without going to fix or clear anything.
+
 ## Tools used
 
 - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
