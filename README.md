@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/steam/collection-files/1865840540?style=flat-square&label=items)
 
-Resource of [Wallpaper Engine](https://www.wallpaperengine.io/). Some videos I processed a long time ago were transcoded to 💩.
+Resource of [Wallpaper Engine](https://www.wallpaperengine.io/).
 
 Because its metadata is troublesome to edit, so merely occasionally update without going to fix or clear anything.
 
