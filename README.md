@@ -10,7 +10,9 @@
 
 Resource of [Wallpaper Engine](https://www.wallpaperengine.io/).
 
-Because its metadata is troublesome to edit, so merely occasionally update without going to fix or clear anything.
+Some videos I processed a long time ago were transcoded to 💩.
+
+Because their metadata on Wallpaper Engine's Steam Workshop is troublesome to edit, I merely occasionally update them without actually fixing or clearing anything.
 
 ## Tools used
 
@@ -18,8 +20,10 @@ Because its metadata is troublesome to edit, so merely occasionally update witho
 - [Jackett](https://github.com/Jackett/Jackett)
 - [HandBrake](https://handbrake.fr)
 - [Handbrake Watcher](https://github.com/shannah/handbrake-watcher)
-- [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ## Attribution
 
-Content of this repo licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). All the wallpaper videos on steamcommunity, their copyrights belong to the original producer 👮, etc..
+Content of this repo licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+All the wallpaper videos on steamcommunity, their copyrights belong to the original producer 👮, etc..
